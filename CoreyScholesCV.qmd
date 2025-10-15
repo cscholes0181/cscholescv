@@ -1,11 +1,11 @@
 ---
-title: "Curiculum Vitae 2024"
+title: "Curiculum Vitae C Scholes"
 author: "Corey Scholes, PhD"
 type: "website"
 number-sections: false
 number-depth: 2
 date: "2024-Oct-10"
-date-modified: "2024-Oct-10"
+date-modified: "2025-Oct-16"
 bibliography: Scholes.bib
 
 format:
@@ -45,15 +45,35 @@ format-links: true
 
 **System Architecture & Implementation**
 
--   **Established national client portfolio** spanning public/private health sectors, government agencies, and industry partners across nearly every Australian state
+-   **Designed and deployed 8+ specialist clinical quality registries** for sports medicine, joint arthroplasty, and oncology, managing projects valued at \$50K-\$200K each, with ongoing partnerships of 5+ years
 
 <!-- -->
 
--   **Secured 30+ consulting engagements** resulting in peer-reviewed publications, demonstrating sustained client value and research impact
+-   **Served as lead technical architect** for SHARKS (public hospital orthopaedics), CROSEP and PRULO (upper limb outcomes), COMPRESSOR (complex pelvis and limb reconstruction), SOFARI (foot and ankle), PROKPATH (knee), AORA (hip and knee arthroplasty) and PROPELLER (orthopaedics) registries
 
 <!-- -->
 
--   **Drove business development strategy** through targeted account acquisition and relationship management with complex stakeholder ecosystems
+-   **Implemented sophisticated data infrastructure** integrating electronic screening, randomization, and longitudinal patient-reported outcome collection within clinical workflows
+
+<!-- -->
+
+-   **Ensured regulatory compliance** with Australian Commission on Safety and Quality in Health Care principles for clinical quality registries and HREC requirements
+
+**Methodological Excellence & Quality Assurance**
+
+-   **Oversee analysis of complex datasets** including public hospital presentations (100K+ episodes), longitudinal cohort studies (20 000+ records), and registry-embedded randomized controlled trials (
+
+-    **Implement advanced statistical methods** including meta-analysis/meta-regression, natural language processing for clinical text data, k-means clustering for patient phenotyping, and predictive modeling with external validation
+
+-    **Ensure compliance** with CONSORT, STROBE, PRISMA, and IDEAL frameworks for surgical innovation reporting
+
+**Team Leadership & Capacity Building**
+
+-    **Supervise multidisciplinary teams** of engineers, data analysts, clinicians, and research coordinators across concurrent projects
+
+-    **Mentor staff development** in advanced statistical programming, study design, regulatory compliance, and scientific writing
+
+-    **Established quality systems** for data validation, analysis verification, and peer review of outputs
 
 ### Chief Science Officer
 
