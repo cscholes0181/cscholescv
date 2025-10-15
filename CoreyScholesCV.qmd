@@ -1,11 +1,11 @@
 ---
-title: "Curiculum Vitae C Scholes"
+title: "Curiculum Vitae"
 author: "Corey Scholes, PhD"
 type: "website"
 number-sections: false
 number-depth: 2
-date: "2024-Oct-10"
-date-modified: "2025-Oct-16"
+date: "2025-Oct-16"
+date-modified: "2024-Oct-10"
 bibliography: Scholes.bib
 
 format:
@@ -46,34 +46,25 @@ format-links: true
 **System Architecture & Implementation**
 
 -   **Designed and deployed 8+ specialist clinical quality registries** for sports medicine, joint arthroplasty, and oncology, managing projects valued at \$50K-\$200K each, with ongoing partnerships of 5+ years
-
-<!-- -->
-
 -   **Served as lead technical architect** for SHARKS (public hospital orthopaedics), CROSEP and PRULO (upper limb outcomes), COMPRESSOR (complex pelvis and limb reconstruction), SOFARI (foot and ankle), PROKPATH (knee), AORA (hip and knee arthroplasty) and PROPELLER (orthopaedics) registries
-
-<!-- -->
-
 -   **Implemented sophisticated data infrastructure** integrating electronic screening, randomization, and longitudinal patient-reported outcome collection within clinical workflows
-
-<!-- -->
-
--   **Ensured regulatory compliance** with Australian Commission on Safety and Quality in Health Care principles for clinical quality registries and HREC requirements
+-   **Ensured regulatory compliance** with Australian Commission on Safety and Quality in Health Care principles for clinical quality registries and human research ethics requirements
 
 **Methodological Excellence & Quality Assurance**
 
 -   **Oversee analysis of complex datasets** including public hospital presentations (100K+ episodes), longitudinal cohort studies (20 000+ records), and registry-embedded randomized controlled trials (
 
--    **Implement advanced statistical methods** including meta-analysis/meta-regression, natural language processing for clinical text data, k-means clustering for patient phenotyping, and predictive modeling with external validation
+-   **Implement advanced statistical methods** including meta-analysis/meta-regression, natural language processing for clinical text data, k-means clustering for patient phenotyping, and predictive modeling with external validation
 
--    **Ensure compliance** with CONSORT, STROBE, PRISMA, and IDEAL frameworks for surgical innovation reporting
+-   **Ensure compliance** with CONSORT, STROBE, PRISMA, and IDEAL frameworks for surgical innovation reporting
 
 **Team Leadership & Capacity Building**
 
--    **Supervise multidisciplinary teams** of engineers, data analysts, clinicians, and research coordinators across concurrent projects
+-   **Supervise multidisciplinary teams** of engineers, data analysts, clinicians, and research coordinators across concurrent projects
 
--    **Mentor staff development** in advanced statistical programming, study design, regulatory compliance, and scientific writing
+-   **Mentor staff development** in advanced statistical programming, study design, regulatory compliance, and scientific writing
 
--    **Established quality systems** for data validation, analysis verification, and peer review of outputs
+-   **Established quality systems** for data validation, analysis verification, and peer review of outputs
 
 ### Chief Science Officer
 
@@ -111,7 +102,7 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 -   Directly contribute to soldier training through presentation and demonstration in classroom and field environments.
 -   Coordinate enabling elements to support training activities and simulated combat operations.
 -   Contribute to command activities in collaboration with Senior Management within joint planning, budgeting and personnel administration.
--   Contribute to operational planning, including risk management, for training activities for up to 200 personnel.
+-   Coordinated multi-unit operations supporting training activities and simulated combat operations for 600+ personnel. Contributed to strategic planning including operational risk management, budgeting, and personnel administration in collaboration with senior command.
 
 ### Teaching Assistant
 
@@ -131,7 +122,7 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 
 ::::: columns
 ::: column
-## EDUCATION
+# EDUCATION
 
 **Doctor of Philosophy -- Exercise Science** <br> *Queensland University of Technology* [*Feb 2005 --- Oct 2010*]{.cvdate}
 
@@ -166,69 +157,110 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 ::: column
 ## Technical
 
--   Statistics and Methods
-    -   Extract, transform and load data processing
-    -   Modelling (Prediction and Inference)
-    -   Machine Learning
-    -   Natural language processing
-    -   Signal processing
-    -   Time series analysis
-    -   Survival analysis
-    -   Multistate modelling
-    -   Meta-analysis and regression
-    -   Clinical trials
-    -   Clinical quality registry
--   Languages and Environments (familiarity and working knowledge)
-    -   R, RStudio, Quarto
-    -   Stata
-    -   Matlab
-    -   Google Cloud Platform
-        -   LookerStudio
-        -   App Scripts
-    -   SQL
-    -   Regular expressions
-    -   Version control (git)
-    -   Project management (ClickUp)
+### Strategic Analytics & Methodology
+
+-    **Advanced Statistical Modeling:** Prediction & inference modeling, machine learning (k-means clustering, phenotyping), survival analysis, multistate modeling, meta-analysis/meta-regression
+
+-    **Causal Inference:** Directed Acyclic Graphs (DAGs), systematic confounder selection, propensity score methods
+
+-    **Clinical Trials:** Design, conduct, and reporting (CONSORT, IDEAL framework)
+
+-    **Registry Science:** Clinical quality registry design, implementation, validation, and reporting
+
+-    **Health Services Research:** Model of care evaluation, length-of-stay prediction, external validation of clinical prediction models
+
+-   **Technical analysis:** Analysis of anatomy and biomechanics relevant to surgical, rehabilitation and diagnostic applications of musculoskeletal conditions
+
+### Data Engineering & Computing
+
+-    **Languages & Environments:** R, RStudio, Quarto, Stata, Minitab, Matlab, SQL, Google Query, Regular expressions
+
+-    **Cloud & Infrastructure:** Google Cloud Platform (LookerStudio, App Scripts)
+
+-    **Modern Data Science Stack:** tidyverse (data manipulation), gtsummary and ggplot2 (visualisation and presentation), mice (multiple imputation), marginaleffects (model interpretation)
+
+-    **Specialized Analytics:** Natural language processing, signal processing, time series analysis
+
+-    **Version Control & Project Management:** Git, ClickUp
+
+### Regulatory & Governance
+
+-    Good Clinical Practice
+
+-    Human research ethics application, management and liaison experience
+
+-    Clinical quality registry compliance (ACSQHC principles)
+
+-   Working With Children Check
 :::
 
 ::: column
 ## Non-Technical
 
--   Leadership, business development, ethics, governance
--   Collaboration, communication, public-speaking, team-building, staff and student supervision
--   Problem-solving, adaptability, self-awareness, conflict resolution
--   Strategic thinking, risk assessment and mitigation, long-term planning
+### **Business & Organizational Leadership**
+
+-    Strategic planning and execution
+
+-    Business development and account management
+
+-    Financial planning, monitoring, and P&L responsibility
+
+-    Change management and organizational transformation
+
+-    Stakeholder engagement across complex ecosystems
+
+**Technical & Scientific Leadership**
+
+-    Research strategy development and implementation
+
+-    Methodological innovation and thought leadership
+
+-    Quality assurance and regulatory compliance
+
+-    Team building and talent development
+
+-    Cross-functional collaboration
+
+**Core Professional Skills**
+
+-    Public speaking and executive communication
+
+-    Problem-solving and adaptive thinking
+
+-    Conflict resolution and negotiation
+
+-    Risk assessment and mitigation
+
+-    Long-term strategic planning
 :::
 :::::
 
 # SCIENTIFIC OUTPUT
 
-A summary of my research output is available at [Google Scholar](https://scholar.google.com.au/citations?user=PKsLEVQAAAAJ&hl=en) (h-index 19) and [Orcid.org](https://orcid.org/0000-0001-6592-0738). My summary [profile](https://drive.google.com/file/d/1-3km47uPpoYbxgskkXc6kdgOhtD2Pk5U/view?usp=sharing) from Publons (Web of Science) also illustrates my contributions to peer-review with respected journals within my field. Selected citations to illustrate my experience in key science domains are summarised below, including preprint articles that have yet to be submitted for peer review.
+80+ peer-reviewed publications spanning meta-science, surgical and allied health outcomes in musculoskeletal medicine, clinical quality registries, predictive modeling, clinical trials, population health, and health services research. A summary of my research output is available at [Google Scholar](https://scholar.google.com.au/citations?user=PKsLEVQAAAAJ&hl=en) (h-index 21) and [Orcid.org](https://orcid.org/0000-0001-6592-0738). My summary [profile](https://drive.google.com/file/d/1-3km47uPpoYbxgskkXc6kdgOhtD2Pk5U/view?usp=sharing) from Publons (Web of Science) also illustrates my contributions to peer-review with respected journals within my field. Selected citations to illustrate my experience in key science domains are summarised below, including preprint articles that have yet to be submitted for peer review.
 
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Domain                                     | Summary                                                      | Example Citations                                                                         |
-+============================================+==============================================================+===========================================================================================+
-| Meta-science                               | Systematic Review                                            | [@scholes2015meniscal]                                                                    |
-|                                            |                                                              |                                                                                           |
-|                                            | Meta-Analysis                                                | [@harrison2019efficacy]                                                                   |
-|                                            |                                                              |                                                                                           |
-|                                            | Meta-Regression                                              | [@scholes2023persistent]                                                                  |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Open Science                               | Trial registration                                           | [@ektas2019recovery; @fatima2022effect]                                                   |
-|                                            |                                                              |                                                                                           |
-|                                            | Protocol development                                         |                                                                                           |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Computed Assisted Surgery                  | Shoulder, Hip, Knee                                          | [@nashikkar2019computer; @lustig2013unsatisfactory; @scholes2023ct; @oussedik2012femoral] |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Clinical Quality Registry                  | Description and validation of registries in practice         | [@jenio2019quality; @scholes2023patient; @lee2020implementation]                          |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Clinical Outcomes and Prediction Modelling | Description and analysis of observational data in practice   | [@harrison2024applying; @scholes2024stage]                                                |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Clinical Trials                            | Conduct and reporting of clinical trials                     | [@de2011tibial]                                                                           |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Population Health                          | Use of national level resources to answer clinical questions | [@scholes2019outcome; @scholes2024stay]                                                   |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
-| Health Services                            | Assessment and implementation of model of care changes       | [@barton2024physiotherapy; @tuckerman2020evolution]                                       |
-+--------------------------------------------+--------------------------------------------------------------+-------------------------------------------------------------------------------------------+
+## **Key Methodological Innovations:**
 
-# CITATIONS
+-    Development of innovative registry methods for implementation of efficient monitoring of health outcomes into local systems
+
+-   Application of causal inference methods to observation research in medical and health services research
+
+-   Multistate survival modeling for complex adverse events in surgical cohorts
+
+-   Machine learning phenotyping of patient cohorts and technical analysis of musculoskeletal anatomy
+
+-   Registry-embedded randomized controlled trial methodology
+
+## **Notable Multi-Stakeholder Projects:**
+
+-   Industry-sponsored device innovation evaluations balancing scientific rigor with commercial considerations
+
+-   Public-private partnerships establishing clinical registries across hospital systems
+
+-   National registry analysis of patient travel patterns and outcomes (AOANJRR collaboration)
+
+-   Analysis of public health data involving linkage with local and state data sets
+
+## REFERENCES
+
+Available upon request
