@@ -1,9 +1,9 @@
 {
     "id": "96420C00",
-    "path": "G:/My Drive/EBMA/Staff/Corey Scholes/CoreyScholesCV2024/CoreyScholesCV2024.qmd",
+    "path": "~/GitHub Repositories/cscholescv2024/CoreyScholesCV2024.qmd",
     "project_path": "CoreyScholesCV2024.qmd",
     "type": "quarto_markdown",
-    "hash": "2987710001",
+    "hash": "995679974",
     "contents": "",
     "dirty": false,
     "created": 1728447139569.0,
@@ -16,17 +16,17 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "2:0",
-        "cursorPosition": "173,19",
+        "rmdVisualModeLocation": "1645:700",
+        "cursorPosition": "173,0",
         "scrollLine": "0",
         "quartoPreviewFormat": "html"
     },
     "folds": "",
-    "lastKnownWriteTime": 1728613155,
+    "lastKnownWriteTime": 1760567000,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1728613156080,
+    "last_content_update": 1760567000628,
     "read_only": false,
     "read_only_alternatives": []
 }
