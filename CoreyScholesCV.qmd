@@ -7,6 +7,9 @@ number-depth: 2
 date: "2025-Oct-16"
 date-modified: "2024-Oct-10"
 bibliography: Scholes.bib
+project:
+  type: website
+  output-dir: docs
 
 format:
   docx: 
@@ -138,8 +141,11 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 
 # CREDENTIALS
 
--   Good Clinical Practice
--   Working With Children Check
+-   Statistical methods for risk prediction and prognostic models - University of Keele UK (2021)
+-   NSW Going Global program for health technology companies to enter international markets (2022)
+-   ANDHealth Accelerate program for startups in health technology (2023)
+-   Good Clinical Practice (2024)
+-   Working With Children Check (2024)
 :::
 
 ::: column
