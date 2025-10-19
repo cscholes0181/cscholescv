@@ -1,5 +1,25 @@
 project:
-  title: "CoreyScholesCV2024"
-
+  title: "Curiculum Vitae"
+  type: website
+  output-dir: docs
+format:
+  docx: 
+    toc: true
+    number-sections: false
+    toc-depth: 2
+  html:
+    df-print: paged
+    code-fold: true
+    toc: true
+  pdf:
+    author: Corey Scholes
+    toc: false
+    colorlinks: true
 editor: visual
+execute: 
+  echo: true
+  warning: false
+  error: false
+css: cv.css
+format-links: true
 

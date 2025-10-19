@@ -1,7 +1,6 @@
 ---
 title: "Curiculum Vitae"
 author: "Corey Scholes, PhD"
-type: "website"
 number-sections: false
 number-depth: 2
 date: "2025-Oct-16"
@@ -10,7 +9,6 @@ bibliography: Scholes.bib
 project:
   type: website
   output-dir: docs
-
 format:
   docx: 
     toc: true
@@ -165,37 +163,37 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 
 ### Strategic Analytics & Methodology
 
--    **Advanced Statistical Modeling:** Prediction & inference modeling, machine learning (k-means clustering, phenotyping), survival analysis, multistate modeling, meta-analysis/meta-regression
+-   **Advanced Statistical Modeling:** Prediction & inference modeling, machine learning (k-means clustering, phenotyping), survival analysis, multistate modeling, meta-analysis/meta-regression
 
--    **Causal Inference:** Directed Acyclic Graphs (DAGs), systematic confounder selection, propensity score methods
+-   **Causal Inference:** Directed Acyclic Graphs (DAGs), systematic confounder selection, propensity score methods
 
--    **Clinical Trials:** Design, conduct, and reporting (CONSORT, IDEAL framework)
+-   **Clinical Trials:** Design, conduct, and reporting (CONSORT, IDEAL framework)
 
--    **Registry Science:** Clinical quality registry design, implementation, validation, and reporting
+-   **Registry Science:** Clinical quality registry design, implementation, validation, and reporting
 
--    **Health Services Research:** Model of care evaluation, length-of-stay prediction, external validation of clinical prediction models
+-   **Health Services Research:** Model of care evaluation, length-of-stay prediction, external validation of clinical prediction models
 
 -   **Technical analysis:** Analysis of anatomy and biomechanics relevant to surgical, rehabilitation and diagnostic applications of musculoskeletal conditions
 
 ### Data Engineering & Computing
 
--    **Languages & Environments:** R, RStudio, Quarto, Stata, Minitab, Matlab, SQL, Google Query, Regular expressions
+-   **Languages & Environments:** R, RStudio, Quarto, Stata, Minitab, Matlab, SQL, Google Query, Regular expressions
 
--    **Cloud & Infrastructure:** Google Cloud Platform (LookerStudio, App Scripts)
+-   **Cloud & Infrastructure:** Google Cloud Platform (LookerStudio, App Scripts)
 
--    **Modern Data Science Stack:** tidyverse (data manipulation), gtsummary and ggplot2 (visualisation and presentation), mice (multiple imputation), marginaleffects (model interpretation)
+-   **Modern Data Science Stack:** tidyverse (data manipulation), gtsummary and ggplot2 (visualisation and presentation), mice (multiple imputation), marginaleffects (model interpretation)
 
--    **Specialized Analytics:** Natural language processing, signal processing, time series analysis
+-   **Specialized Analytics:** Natural language processing, image analysis, signal processing, time series analysis
 
--    **Version Control & Project Management:** Git, ClickUp
+-   **Version Control & Project Management:** Git, ClickUp
 
 ### Regulatory & Governance
 
--    Good Clinical Practice
+-   Good Clinical Practice
 
--    Human research ethics application, management and liaison experience
+-   Human research ethics application, management and liaison experience
 
--    Clinical quality registry compliance (ACSQHC principles)
+-   Clinical quality registry compliance (ACSQHC principles)
 
 -   Working With Children Check
 :::
@@ -203,41 +201,41 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 ::: column
 ## Non-Technical
 
-### **Business & Organizational Leadership**
+### Business & Organizational Leadership
 
--    Strategic planning and execution
+-   Strategic planning and execution
 
--    Business development and account management
+-   Business development and account management
 
--    Financial planning, monitoring, and P&L responsibility
+-   Financial planning, monitoring, and P&L responsibility
 
--    Change management and organizational transformation
+-   Change management and organizational transformation
 
--    Stakeholder engagement across complex ecosystems
+-   Stakeholder engagement across complex ecosystems
 
-**Technical & Scientific Leadership**
+### **Technical & Scientific Leadership**
 
--    Research strategy development and implementation
+-   Research strategy development and implementation
 
--    Methodological innovation and thought leadership
+-   Methodological innovation and thought leadership
 
--    Quality assurance and regulatory compliance
+-   Quality assurance and regulatory compliance
 
--    Team building and talent development
+-   Team building and talent development
 
--    Cross-functional collaboration
+-   Cross-functional collaboration
 
-**Core Professional Skills**
+### **Core Professional Skills**
 
--    Public speaking and executive communication
+-   Public speaking and executive communication
 
--    Problem-solving and adaptive thinking
+-   Problem-solving and adaptive thinking
 
--    Conflict resolution and negotiation
+-   Conflict resolution and negotiation
 
--    Risk assessment and mitigation
+-   Risk assessment and mitigation
 
--    Long-term strategic planning
+-   Long-term strategic planning
 :::
 :::::
 
@@ -245,9 +243,9 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 
 80+ peer-reviewed publications spanning meta-science, surgical and allied health outcomes in musculoskeletal medicine, clinical quality registries, predictive modeling, clinical trials, population health, and health services research. A summary of my research output is available at [Google Scholar](https://scholar.google.com.au/citations?user=PKsLEVQAAAAJ&hl=en) (h-index 21) and [Orcid.org](https://orcid.org/0000-0001-6592-0738). My summary [profile](https://drive.google.com/file/d/1-3km47uPpoYbxgskkXc6kdgOhtD2Pk5U/view?usp=sharing) from Publons (Web of Science) also illustrates my contributions to peer-review with respected journals within my field. Selected citations to illustrate my experience in key science domains are summarised below, including preprint articles that have yet to be submitted for peer review.
 
-## **Key Methodological Innovations:**
+## Key Methodological Innovations:
 
--    Development of innovative registry methods for implementation of efficient monitoring of health outcomes into local systems
+-   Development of innovative registry methods for implementation of efficient monitoring of health outcomes into local systems
 
 -   Application of causal inference methods to observation research in medical and health services research
 
@@ -257,7 +255,7 @@ Australian Army Reserve [*2009 - 2015*]{.cvdate}
 
 -   Registry-embedded randomized controlled trial methodology
 
-## **Notable Multi-Stakeholder Projects:**
+## Notable Multi-Stakeholder Projects:
 
 -   Industry-sponsored device innovation evaluations balancing scientific rigor with commercial considerations
 
